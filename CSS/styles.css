@@ -1,0 +1,135 @@
+body{
+    margin: 0%;
+    text-align: center;
+    background-color: rgb(227, 243, 244);
+ 
+}
+ 
+h1{
+    margin: 50px auto 0px auto;
+    font-family: 'Cookie', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+
+h2{
+    font-size: 1.875rem;
+    color: #66BFBF;
+}
+
+h3{
+    color: #11999E;
+}
+
+.top-container{
+   
+    position: relative;
+    padding-top: 100px;
+}
+    
+
+.middle-container{
+    margin: 30px auto 30px auto;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding-top: 40px;
+    padding-bottom: 10px;
+   
+}
+
+a{
+    color: #016868;
+    margin: 10px 20px;
+    text-decoration: none;
+
+}
+
+a:hover{
+    color: #013333;
+}
+
+.copy-right{
+    color: #fff;
+    font-size: 0.75rem;
+}
+
+.dance{
+    font-style: italic;
+}
+
+.bottom-Gunghroo{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+    margin-bottom: 300px;
+    margin-right: 500px;
+} 
+
+.about-dance{
+    width: 30%;
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+hr{
+    border: dotted;
+    width: 40px;
+}
+
+.top-Gunghroo{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+} 
+
+.skills{
+    padding-top: 20px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 50px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.c-dance{
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+}
+
+.w-dance{
+    float: right;
+    margin-left: 30px;
+    width: 25%;
+}
+
+.contact-me{
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+
+
+.btn {
+    font-size:21px;
+    font-family:Times New Roman;
+    width:140px;
+    height:50px;
+    border-width:1px;
+    color:#fff;
+    border-color:#0b0e07;
+    border-top-left-radius:3px;
+    border-top-right-radius:3px;
+    border-bottom-left-radius:3px;
+    border-bottom-right-radius:3px;
+    box-shadow:inset 0px -3px 7px 0px rgba(96, 218, 180, 1);
+    text-shadow:inset 0px 1px 0px #263666;
+    background:linear-gradient(rgba(89, 182, 212, 1), rgba(14, 60, 97, 1));
+  }
+  
+  .btn:hover {
+    background: linear-gradient(rgba(14, 60, 97, 1), rgba(89, 182, 212, 1));
+  }
+                
